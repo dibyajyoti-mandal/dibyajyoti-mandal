@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cookiejar2104
+- 👋 Hi, I’m Dibyajyoti Mandal 
 - 👀 I’m interested in CP, WebDev and ML
 - 🌱 I’m currently learning Advanced web frameworks and started with ML
 - 📫 How to reach me ...
