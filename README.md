@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dibyajyoti Mandal 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+This+is+Dibayjyoi)](https://git.io/typing-svg)
 - 👀 I’m interested in CP, WebDev and ML
 - 🌱 I’m currently learning Advanced web frameworks and started with ML
 - 📫 How to reach me ...
