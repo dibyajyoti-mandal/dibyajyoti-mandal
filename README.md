@@ -5,7 +5,7 @@
 
 <h3 align="left">My profiles:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/scrazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="scrazy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/alsoscrazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="scrazy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coo_kie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coo_kie" height="30" width="40" /></a>
 </p>
 
